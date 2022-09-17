@@ -1,0 +1,1 @@
+the pipeline function is the most high-level API of the Transformers library . it regroups all the steps to go from raw texts to usable predictions . the model used is at the core of a pipeline, but it also include all the necessary pre-processing .
